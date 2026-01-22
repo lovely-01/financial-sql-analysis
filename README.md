@@ -85,6 +85,14 @@ Financial Performance Analysis – SQL Project
     	Visualization using Power BI / Excel.
 
 
+• Audit Relevance:
+		Sudden YoY revenue spikes may indicate revenue recognition risk and require detailed vouching.
+		Declining profit margins can highlight cost misstatement or inefficiencies.
+		Departments with unusually high expenses become high-risk audit areas for sample testing.
+		Quarter-wise trends help auditors plan interim vs final audits.
+		This analysis can be used for risk assessment & audit planning before fieldwork
+
+
 • Why this project matters:
     	This is not a toy project.
     	It directly relates to:
